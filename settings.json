@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thankanSmp.aternos.me",
+    "ip": "thankansmp.aternos.me",
     "port": 34158,
     "version": "1.21.11",
     "try-creative": false
